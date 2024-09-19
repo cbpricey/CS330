@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "duMIW/DFu4EmlunW3huapWrW6icPQCH1XI2zhtN3ljD6DMTm64XC8fdNkHn8L70QPb3xRK8f20a1HBXFJGyHoQ==",
+  "success": true,
+  "projectFilePath": "/Users/collinprice/Documents/GitHub/CS330-Fall2024-Project1-Cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice.csproj",
+  "expectedPackageFiles": [
+    "/Users/collinprice/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/collinprice/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/collinprice/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

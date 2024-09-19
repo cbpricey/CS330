@@ -1,0 +1,7 @@
+/Users/collinprice/Documents/GitHub/CS330-Fall2024-Project1-Cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cbprice
+/Users/collinprice/Documents/GitHub/CS330-Fall2024-Project1-Cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/collinprice/Documents/GitHub/CS330-Fall2024-Project1-Cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/collinprice/Documents/GitHub/CS330-Fall2024-Project1-Cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cbprice.dll
+/Users/collinprice/Documents/GitHub/CS330-Fall2024-Project1-Cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cbprice.deps.json
+/Users/collinprice/Documents/GitHub/CS330-Fall2024-Project1-Cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cbprice.runtimeconfig.json
+/Users/collinprice/Documents/GitHub/CS330-Fall2024-Project1-Cbprice/Fall2024-Assignment1-cbprice/Fall2024-Assignment1-cbprice/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cbprice.pdb

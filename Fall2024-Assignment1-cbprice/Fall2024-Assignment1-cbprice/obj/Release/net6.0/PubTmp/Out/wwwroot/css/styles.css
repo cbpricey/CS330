@@ -1,0 +1,176 @@
+﻿/* Flexbox for body to center content */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Full height of the viewport */
+    margin: 0;
+    background-color: #2C3E50; /* Dark blue background */
+    font-family: Arial, sans-serif;
+    color: #ECF0F1; /* Light contrasting text */
+}
+
+/* Main container with grid for structured layout */
+#container {
+    display: grid;
+    gap: 20px;
+    text-align: center;
+    max-width: 800px;
+    width: 90%; /* Allow some breathing room on small screens */
+    margin: 0 auto;
+}
+
+#Title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100; /* You can adjust the font-weight if necessary */
+}
+
+/* Flexbox for media content (image and button) */
+.media-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Styling for the image */
+#CoverArt {
+    width: 300px;
+    height: 450px;
+    border-radius: 10%;
+    margin-bottom: 20px;
+}
+
+/* Styling for the rating */
+#RatingDiv {
+    width: 150px;
+    height: 50px;
+    background-color: #3498DB;
+    font-weight: bold;
+    position: absolute;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+/* Rating text styling */
+#Rating {
+    background-color: #3498DB;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin: 0;
+}
+
+/* Trailer iframe styling */
+#Trailer {
+    align-items: center;
+    width: 100%; /* Make it responsive */
+    max-width: 560px; /* Maintain a max width */
+    height: 315px;
+    margin-bottom: 20px;
+}
+
+#summaryDiv {
+    width: auto;
+    height: auto;
+    font-weight: bold;
+    position: absolute;
+    border-radius: 10%;
+}
+
+#Summary {
+    background-color: #031c2e;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin: 0;
+}
+
+/* Styling for the actors list */
+#ActorsDiv {
+    width: auto;
+    height: auto;
+    font-weight: bold;
+    position: absolute;
+    border-radius: 10%;
+}
+
+#Actors {
+    background-color: #031c2e;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin: 0;
+}
+
+
+/* Styling for the link */
+#linkDiv {
+    width: auto;
+    height: auto;
+    font-weight: bold;
+    position: absolute;
+    border-radius: 10%;
+}
+
+#link {
+    background-color: #031c2e;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin: 0;
+}
+a {
+    color: #031c2e;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom:100px;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/* Responsive design adjustments */
+@media (max-width: 600px) {
+    #CoverArt {
+        width: 250px;
+        height: auto;
+    }
+
+    #Title {
+        font-size: 2em;
+    }
+
+    #RatingButton {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+
+    #Trailer {
+        width: 100%;
+        max-width: 100%;
+    }
+}
