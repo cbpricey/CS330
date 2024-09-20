@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Fall2024_Assignment1_mdmay1.Models;
+using Fall2024_Assignment1_cbprice.Models;
 
-namespace Fall2024_Assignment1_mdmay1.Controllers;
+namespace Fall2024_Assignment1_cbprice.Controllers;
 
 public class HomeController : Controller
 {

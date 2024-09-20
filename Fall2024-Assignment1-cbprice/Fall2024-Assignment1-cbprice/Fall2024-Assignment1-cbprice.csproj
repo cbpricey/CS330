@@ -7,4 +7,5 @@
     <RootNamespace>Fall2024_Assignment1_mdmay1</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Fall2024_Assignment1_cbprice' " />
 </Project>

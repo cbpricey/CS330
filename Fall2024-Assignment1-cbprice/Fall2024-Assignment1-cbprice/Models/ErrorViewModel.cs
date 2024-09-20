@@ -1,4 +1,4 @@
-﻿namespace Fall2024_Assignment1_mdmay1.Models;
+﻿namespace Fall2024_Assignment1_cbprice.Models;
 
 public class ErrorViewModel
 {
